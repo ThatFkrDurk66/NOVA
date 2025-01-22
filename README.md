@@ -1,4 +1,4 @@
-# 🎈 Blank app template
+# 🥳🥳 NOVA Assistant 🥳🥳
 
 A simple Streamlit app template for you to modify!
 
